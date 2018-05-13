@@ -1,4 +1,12 @@
 
+# PyCitySchools Analysis
+
+- Observed Trend 1: Students tend to have better reading scores than math scores in general. Also, the budget spending per student does not seem to have a big impact in the average scores, but instead the schools that have a greater budget spending per student have lower overall scores, as observed in the "Scores by School Spending' part.
+
+- Observed Trend 2: The school size seems to be a factor that affects the average scores. The smaller schools tend to have a better performance than the large ones, as observed in the "School by Size Summary"  
+
+- Observed Trend 3: The "Charter" schools have better average score rates than the "District" schools. The top 5 schools are "Charter" schools mean while the bottom 5 schools are "District" types.
+
 
 ```python
 # Importing dependencies
